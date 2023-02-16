@@ -11,9 +11,9 @@
 ### 총원: 3명
 🐰 riverwings(강나래/팀원)  -  Community페이지, 제품(Beer)상세 페이지 및 Review페이지, 마이페이지(게시판 파트), 관리자 페이지 Community, Review 파트 구축, DB 구축
 <br>
-🐻 ilhojung0815(정일호/팀원)  -  Festival페이지, 카카오맵 API연동, 관리자 페이지 홈화면, 관리자 페이지 Beer, Festival 파트 구축
-<br>
 😺 xowoony(정소운/팀장)  -  회원가입, 로그인, Beer페이지, 마이페이지(회원정보 수정 파트) 구축 및 잔이비어 프로젝트 디자인 및 구성 총괄(프론트)
+<br>
+🐻 ilhojung0815(정일호/팀원)  -  Festival페이지, 카카오맵 API연동, 관리자 페이지 홈화면, 관리자 페이지 Beer, Festival 파트 구축
 
 # 3. 기술 스택
 ### Backend: <img height="18px" src="https://img.shields.io/badge/Java-blue">
@@ -80,8 +80,3 @@
 <a><b>Festival-delete</a><br>
 ![festival_delete](https://user-images.githubusercontent.com/58130791/215688685-7133ea9d-11d1-4488-a742-86d9efc66f23.gif)
 <br><br><br>
- 
-
-# 6. 주요 이슈 및 해결책
-
-# 7. 결론
